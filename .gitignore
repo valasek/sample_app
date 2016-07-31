@@ -41,4 +41,8 @@ bower.json
 # Ignore Byebug command history file.
 .byebug_history
 
+# Ignore Idea files.
 /.idea
+
+# Ignore Spring files.
+/spring/*.pid
